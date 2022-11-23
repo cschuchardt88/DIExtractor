@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DIExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Temp\\di\\Engine.mpkinfo"
+    }
+  }
+}
